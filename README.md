@@ -9,6 +9,13 @@ I am currently in the first semester of Data Analytics.
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
+# Google Colab
+Click on the link below to open project 'Penguins.ipynb' in Google Collab[openincolab.com](https://openincollab.com/).
+
+<a target="_blank" href="https://colab.research.google.com/github/GraceMarySmyth/MyProject/blob/main/Penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # As per the submission guidlines as laid out by Lecturer Ian McLoughlin the tasks are as below:
 1. Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it.
 2.  Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the data set and the variables it contains.
