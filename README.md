@@ -25,7 +25,7 @@ Click on the link below to open project 'Penguins.ipynb' in Google Collab[openin
 # The main body of the project 
 Select two variables from the data set and provide an analysis of how correlated they are.
 
-## Table of Contents
+# Table of Contents
  - Short Introduction with graphic
  - Table of Contents
  - Background
