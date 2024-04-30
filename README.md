@@ -26,20 +26,21 @@ Click on the link below to open project 'Penguins.ipynb' in Google Collab[openin
 Select two variables from the data set and provide an analysis of how correlated they are.
 
 # Table of Contents
- - Short Introduction with graphic
- - Table of Contents
- - Background
- - Imports
- - Load Data
- - Inspect Data
- - Tables
+ - Short Introduction with graphic.
+ - Table of Contents.
+ - Background.
+ - Imports.
+ - Load Data.
+ - Inspect Data.
+ - Tables.
  - Types of variables that could be used to model the variables in the data set (& References)
  - Bar chart of an appropriate variable. Accompanying pie chart and observations.
  - Histogram of an appropriate variable.Accompanying observations.
  - The differences between a Histogram and a Bar graph.
  - A correlation of two variables.
- - Overall conclusions
- - End
+ - Overall conclusions.
+ - References for code.
+ - End.
 
 
 
